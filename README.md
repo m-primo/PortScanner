@@ -1,7 +1,24 @@
-# Port-Scanner
+# Port Scanner
+A port scanner tool to scan the open ports in specific targets.
 
-Port scanner information gathering tool to scan open ports
+![A screenshot of the tool](screenshot.png)
 
-To use tool just run python file in terminal by using python3 {tool name} 
+# Installation
+```
+pip install -r primo-pipreqs.txt
+```
+or
+```
+pip3 install -r primo-pipreqs.txt
+```
 
-and specify target ip and number of ports that you want to scan
+# Usage
+```
+python app.py
+```
+or
+```
+python3 app.py
+```
+
+And specify target ip and number of ports that you want to scan.
